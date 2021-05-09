@@ -1,482 +1,722 @@
 [
     {
         "name": "accessory",
-        "trans": "n. 配件<br>复数 accessories"
+        "trans": [
+            "n. 配件<br>复数 accessories"
+        ]
     },
     {
         "name": "sustain",
-        "trans": "vt. 维持"
+        "trans": [
+            "vt. 维持"
+        ]
     },
     {
         "name": "bond",
-        "trans": "n. 粘合剂<br>vi. 结合，团结在一起<br>vt. 使结合"
+        "trans": [
+            "n. 粘合剂<br>vi. 结合，团结在一起<br>vt. 使结合"
+        ]
     },
     {
         "name": "readily",
-        "trans": "adv. 容易地，无困难地"
+        "trans": [
+            "adv. 容易地，无困难地"
+        ]
     },
     {
         "name": "explicitly",
-        "trans": "adv. 明确地，明白地"
+        "trans": [
+            "adv. 明确地，明白地"
+        ]
     },
     {
         "name": "embark on",
-        "trans": "从事，着手"
+        "trans": [
+            "从事，着手"
+        ]
     },
     {
         "name": "initiative",
-        "trans": "n. 新方案，倡议<br>adj. 初步的，基础的"
+        "trans": [
+            "n. 新方案，倡议<br>adj. 初步的，基础的"
+        ]
     },
     {
         "name": "designate",
-        "trans": "vt. 指派，指定<br>adj. 指定的，选定的"
+        "trans": [
+            "vt. 指派，指定<br>adj. 指定的，选定的"
+        ]
     },
     {
         "name": "participant",
-        "trans": "n. 参与者"
+        "trans": [
+            "n. 参与者"
+        ]
     },
     {
         "name": "diagnose",
-        "trans": "vt. vi 诊断"
+        "trans": [
+            "vt. vi 诊断"
+        ]
     },
     {
         "name": "capsule",
-        "trans": "n. 概要"
+        "trans": [
+            "n. 概要"
+        ]
     },
     {
         "name": "diversity",
-        "trans": "n. 多样性，差异"
+        "trans": [
+            "n. 多样性，差异"
+        ]
     },
     {
         "name": "inclusion",
-        "trans": "n. 包含，内含物"
+        "trans": [
+            "n. 包含，内含物"
+        ]
     },
     {
         "name": "diversity and inclusion",
-        "trans": "多元化和包容性"
+        "trans": [
+            "多元化和包容性"
+        ]
     },
     {
         "name": "incident",
-        "trans": "n. 事件，事变，插曲"
+        "trans": [
+            "n. 事件，事变，插曲"
+        ]
     },
     {
         "name": "mechanical",
-        "trans": "adj. 机械的，力学的"
+        "trans": [
+            "adj. 机械的，力学的"
+        ]
     },
     {
         "name": "track issue through to resolution",
-        "trans": "跟踪和解决"
+        "trans": [
+            "跟踪和解决"
+        ]
     },
     {
         "name": "reimburse",
-        "trans": "vt. 报销"
+        "trans": [
+            "vt. 报销"
+        ]
     },
     {
         "name": "insurance",
-        "trans": "n. 保险"
+        "trans": [
+            "n. 保险"
+        ]
     },
     {
         "name": "enquires",
-        "trans": "n. 咨询，问询"
+        "trans": [
+            "n. 咨询，问询"
+        ]
     },
     {
         "name": "Microsoft's mission is to empower every person and every organization on the planet to achieve more.",
-        "trans": ""
+        "trans": [
+            ""
+        ]
     },
     {
-        "name": " broader",
-        "trans": "adj. 广大的，宽阔的"
+        "name": "broader",
+        "trans": [
+            "adj. 广大的，宽阔的"
+        ]
     },
     {
         "name": "acronyms",
-        "trans": "n. 首字母缩略词"
+        "trans": [
+            "n. 首字母缩略词"
+        ]
     },
     {
         "name": "provision",
-        "trans": "n. 规定，条款，准备<br>vt. 供给…食物及必需品"
+        "trans": [
+            "n. 规定，条款，准备<br>vt. 供给…食物及必需品"
+        ]
     },
     {
         "name": "engagement",
-        "trans": "n. 婚约，约会，参与度"
+        "trans": [
+            "n. 婚约，约会，参与度"
+        ]
     },
     {
         "name": "ingest",
-        "trans": "vt. 提取，咽下，吸收，接待"
+        "trans": [
+            "vt. 提取，咽下，吸收，接待"
+        ]
     },
     {
         "name": "salutation",
-        "trans": "n. 称呼，问候，招呼，寒暄"
+        "trans": [
+            "n. 称呼，问候，招呼，寒暄"
+        ]
     },
     {
         "name": "atypical",
-        "trans": "adj. 非典型"
+        "trans": [
+            "adj. 非典型"
+        ]
     },
     {
         "name": "tentative",
-        "trans": "adj. 不确定的，不肯定的，暂定的<br>n. 假设，实验，尝试"
+        "trans": [
+            "adj. 不确定的，不肯定的，暂定的<br>n. 假设，实验，尝试"
+        ]
     },
     {
         "name": "leverage",
-        "trans": "n. 手段，影响力<br>v. 利用，举债经营"
+        "trans": [
+            "n. 手段，影响力<br>v. 利用，举债经营"
+        ]
     },
     {
         "name": "cabinet",
-        "trans": "n. 储存柜，陈列柜"
+        "trans": [
+            "n. 储存柜，陈列柜"
+        ]
     },
     {
         "name": "smock",
-        "trans": "n. 工作服，罩衫"
+        "trans": [
+            "n. 工作服，罩衫"
+        ]
     },
     {
         "name": "staggered",
-        "trans": "adj. 错开的，错列的"
+        "trans": [
+            "adj. 错开的，错列的"
+        ]
     },
     {
         "name": "coverage",
-        "trans": "n. 覆盖范围"
+        "trans": [
+            "n. 覆盖范围"
+        ]
     },
     {
         "name": "stabilization",
-        "trans": "n. 稳定，稳定化"
+        "trans": [
+            "n. 稳定，稳定化"
+        ]
     },
     {
         "name": "seamlessly",
-        "trans": "adv. 无缝地"
+        "trans": [
+            "adv. 无缝地"
+        ]
     },
     {
         "name": "acclimate",
-        "trans": "vi. 适应新环境，服水土<br>vt. 使适应"
+        "trans": [
+            "vi. 适应新环境，服水土<br>vt. 使适应"
+        ]
     },
     {
         "name": "orchestrate",
-        "trans": "v. 精心策划，协调优化"
+        "trans": [
+            "v. 精心策划，协调优化"
+        ]
     },
     {
         "name": "demonstrate",
-        "trans": "vi. 举行示威游行或集会<br>vt. 证明，演示"
+        "trans": [
+            "vi. 举行示威游行或集会<br>vt. 证明，演示"
+        ]
     },
     {
         "name": "fiscal year",
-        "trans": "财年，会计年度"
+        "trans": [
+            "财年，会计年度"
+        ]
     },
     {
         "name": "circumstances",
-        "trans": "n. 环境，评论，条件，境遇"
+        "trans": [
+            "n. 环境，评论，条件，境遇"
+        ]
     },
     {
         "name": "clarity",
-        "trans": "n. 清楚，明晰，透明"
+        "trans": [
+            "n. 清楚，明晰，透明"
+        ]
     },
     {
         "name": "sufficient",
-        "trans": "adj. 足够的，充足的"
+        "trans": [
+            "adj. 足够的，充足的"
+        ]
     },
     {
         "name": "facility",
-        "trans": "n. 设备，设施"
+        "trans": [
+            "n. 设备，设施"
+        ]
     },
     {
         "name": "investigation",
-        "trans": "n. 调查，研究"
+        "trans": [
+            "n. 调查，研究"
+        ]
     },
     {
         "name": "reputation",
-        "trans": "n. 名声，名誉"
+        "trans": [
+            "n. 名声，名誉"
+        ]
     },
     {
         "name": "guilt",
-        "trans": "n. 过失，内疚，犯罪<br><br>And, nobody should feel guilty with asking for a time off to gain better work life balance. Just talk to your manager and plan it ahead please."
+        "trans": [
+            "n. 过失，内疚，犯罪<br><br>And, nobody should feel guilty with asking for a time off to gain better work life balance. Just talk to your manager and plan it ahead please."
+        ]
     },
     {
         "name": "suspenseful",
-        "trans": "adj. 悬疑的，令人紧张的，焦虑不安的"
+        "trans": [
+            "adj. 悬疑的，令人紧张的，焦虑不安的"
+        ]
     },
     {
         "name": "integrity",
-        "trans": "n. 完整，正直，诚实，廉正"
+        "trans": [
+            "n. 完整，正直，诚实，廉正"
+        ]
     },
     {
         "name": "dispose",
-        "trans": "vi.vt. 处理，处置，安排"
+        "trans": [
+            "vi.vt. 处理，处置，安排"
+        ]
     },
     {
         "name": "bootstrapper",
-        "trans": "n. 启动加载器，引导程序"
+        "trans": [
+            "n. 启动加载器，引导程序"
+        ]
     },
     {
         "name": "privilege",
-        "trans": "n. 荣誉，特权"
+        "trans": [
+            "n. 荣誉，特权"
+        ]
     },
     {
         "name": "bi-weekly",
-        "trans": "adj. 每两周一次的"
+        "trans": [
+            "adj. 每两周一次的"
+        ]
     },
     {
         "name": "contamination",
-        "trans": "n. 污染，玷污，污染物"
+        "trans": [
+            "n. 污染，玷污，污染物"
+        ]
     },
     {
         "name": "at scale",
-        "trans": "大规模地"
+        "trans": [
+            "大规模地"
+        ]
     },
     {
         "name": "throughput",
-        "trans": "n. 吞吐量，容纳量"
+        "trans": [
+            "n. 吞吐量，容纳量"
+        ]
     },
     {
         "name": "innovate",
-        "trans": "vi. vt. 创新，改革"
+        "trans": [
+            "vi. vt. 创新，改革"
+        ]
     },
     {
         "name": "acoustic",
-        "trans": "adj. 声学的，音响的，听觉的"
+        "trans": [
+            "adj. 声学的，音响的，听觉的"
+        ]
     },
     {
         "name": "criteria",
-        "trans": "n. 标准，条件，criterion的复数"
+        "trans": [
+            "n. 标准，条件，criterion的复数"
+        ]
     },
     {
         "name": "decibel",
-        "trans": "n. 分贝"
+        "trans": [
+            "n. 分贝"
+        ]
     },
     {
         "name": "proof",
-        "trans": "n. 证明，证据<br>adj. 防…的，不能透入的，证明用的，耐…的"
+        "trans": [
+            "n. 证明，证据<br>adj. 防…的，不能透入的，证明用的，耐…的"
+        ]
     },
     {
         "name": "stimulus",
-        "trans": "n. 刺激，激励，刺激物"
+        "trans": [
+            "n. 刺激，激励，刺激物"
+        ]
     },
     {
         "name": "silky",
-        "trans": "adj. 丝的，柔滑的，温和的，丝绸一样的"
+        "trans": [
+            "adj. 丝的，柔滑的，温和的，丝绸一样的"
+        ]
     },
     {
         "name": "drill",
-        "trans": "n.训练，演习<br>vi vt 钻孔，训练"
+        "trans": [
+            "n.训练，演习<br>vi vt 钻孔，训练"
+        ]
     },
     {
         "name": "implicit",
-        "trans": "adj. 含蓄的，暗示的，盲从的"
+        "trans": [
+            "adj. 含蓄的，暗示的，盲从的"
+        ]
     },
     {
         "name": "explicit",
-        "trans": "adj. 明确的，清楚的，详述的"
+        "trans": [
+            "adj. 明确的，清楚的，详述的"
+        ]
     },
     {
         "name": "threat",
-        "trans": "n. 威胁，恐吓，可能造成伤害的事"
+        "trans": [
+            "n. 威胁，恐吓，可能造成伤害的事"
+        ]
     },
     {
         "name": "occurrence",
-        "trans": "n. 发生，出现，事件"
+        "trans": [
+            "n. 发生，出现，事件"
+        ]
     },
     {
         "name": "prioritize",
-        "trans": "v. 按优先顺序列出，确定（任务）优先级，优先考虑"
+        "trans": [
+            "v. 按优先顺序列出，确定（任务）优先级，优先考虑"
+        ]
     },
     {
         "name": "from tomorrow onward",
-        "trans": "从明天开始"
+        "trans": [
+            "从明天开始"
+        ]
     },
     {
         "name": "enumeration",
-        "trans": "n.列举，计算，数目"
+        "trans": [
+            "n.列举，计算，数目"
+        ]
     },
     {
         "name": "gauge",
-        "trans": "n. 计量器，标准尺寸<br>vt. 测量"
+        "trans": [
+            "n. 计量器，标准尺寸<br>vt. 测量"
+        ]
     },
     {
         "name": "strain",
-        "trans": "n. 张力，拉紧，负担<br>vi vt 拉紧，用力"
+        "trans": [
+            "n. 张力，拉紧，负担<br>vi vt 拉紧，用力"
+        ]
     },
     {
         "name": "sink",
-        "trans": "n. 水槽"
+        "trans": [
+            "n. 水槽"
+        ]
     },
     {
         "name": "heatsink",
-        "trans": "n.散热器"
+        "trans": [
+            "n.散热器"
+        ]
     },
     {
         "name": "aggressive",
-        "trans": "adj. 好争斗的，挑衅的，侵略性的"
+        "trans": [
+            "adj. 好争斗的，挑衅的，侵略性的"
+        ]
     },
     {
         "name": "cadence",
-        "trans": "n. 节奏，韵律，抑扬顿挫"
+        "trans": [
+            "n. 节奏，韵律，抑扬顿挫"
+        ]
     },
     {
         "name": "chase",
-        "trans": "vt vi n 追逐，追赶，奔跑"
+        "trans": [
+            "vt vi n 追逐，追赶，奔跑"
+        ]
     },
     {
         "name": "pursuant to",
-        "trans": "根据，依据"
+        "trans": [
+            "根据，依据"
+        ]
     },
     {
         "name": "genealogy",
-        "trans": "n.宗谱，血统，家系"
+        "trans": [
+            "n.宗谱，血统，家系"
+        ]
     },
     {
         "name": "fixture",
-        "trans": "n. 设备，固定装置"
+        "trans": [
+            "n. 设备，固定装置"
+        ]
     },
     {
         "name": "interposer",
-        "trans": "n. 插入器"
+        "trans": [
+            "n. 插入器"
+        ]
     },
     {
         "name": "compromise",
-        "trans": "n. 妥协，和解，折中方案"
+        "trans": [
+            "n. 妥协，和解，折中方案"
+        ]
     },
     {
         "name": "discrepancy",
-        "trans": "n. 不符，矛盾，相差"
+        "trans": [
+            "n. 不符，矛盾，相差"
+        ]
     },
     {
         "name": "associated",
-        "trans": "adj. 关联的，联合的"
+        "trans": [
+            "adj. 关联的，联合的"
+        ]
     },
     {
         "name": "cognizant",
-        "trans": "adj. 知道的，意识到的，了解的，审计的"
+        "trans": [
+            "adj. 知道的，意识到的，了解的，审计的"
+        ]
     },
     {
         "name": "escalation",
-        "trans": "n.扩大，增加"
+        "trans": [
+            "n.扩大，增加"
+        ]
     },
     {
         "name": "artifact",
-        "trans": "n. 手工制品，加工品"
+        "trans": [
+            "n. 手工制品，加工品"
+        ]
     },
     {
         "name": "vary",
-        "trans": "vi vt 变化 违反 改变"
+        "trans": [
+            "vi vt 变化 违反 改变"
+        ]
     },
     {
         "name": "depict",
-        "trans": "vt 描绘，描画 描述"
+        "trans": [
+            "vt 描绘，描画 描述"
+        ]
     },
     {
         "name": "churn",
-        "trans": "n. v. 搅拌"
+        "trans": [
+            "n. v. 搅拌"
+        ]
     },
     {
         "name": "crucial",
-        "trans": "adj. 决定性的，重要的"
+        "trans": [
+            "adj. 决定性的，重要的"
+        ]
     },
     {
         "name": "potential",
-        "trans": "adj. 潜在的，可能的"
+        "trans": [
+            "adj. 潜在的，可能的"
+        ]
     },
     {
         "name": "terminology",
-        "trans": "n. 专门术语"
+        "trans": [
+            "n. 专门术语"
+        ]
     },
     {
         "name": "elastic",
-        "trans": "adj. 有弹性的，灵活的"
+        "trans": [
+            "adj. 有弹性的，灵活的"
+        ]
     },
     {
         "name": "medium",
-        "trans": "n. 媒介，手段，方法，工具<br>adj. 中等的，适中的"
+        "trans": [
+            "n. 媒介，手段，方法，工具<br>adj. 中等的，适中的"
+        ]
     },
     {
         "name": "spectrum",
-        "trans": "n.光谱"
+        "trans": [
+            "n.光谱"
+        ]
     },
     {
         "name": "quantity",
-        "trans": "n. 量，数量，总量"
+        "trans": [
+            "n. 量，数量，总量"
+        ]
     },
     {
         "name": "intensity",
-        "trans": "n. 强烈，剧烈"
+        "trans": [
+            "n. 强烈，剧烈"
+        ]
     },
     {
         "name": "compression",
-        "trans": "n. 挤压，压缩"
+        "trans": [
+            "n. 挤压，压缩"
+        ]
     },
     {
         "name": "rarefaction",
-        "trans": "n.变稀薄，稀薄"
+        "trans": [
+            "n.变稀薄，稀薄"
+        ]
     },
     {
         "name": "transducers",
-        "trans": "n. 传感器"
+        "trans": [
+            "n. 传感器"
+        ]
     },
     {
         "name": "impedance",
-        "trans": "n. 阻抗"
+        "trans": [
+            "n. 阻抗"
+        ]
     },
     {
         "name": "unconscious",
-        "trans": "adj. 无意识的"
+        "trans": [
+            "adj. 无意识的"
+        ]
     },
     {
         "name": "bias",
-        "trans": "偏见"
+        "trans": [
+            "偏见"
+        ]
     },
     {
         "name": "expedience",
-        "trans": "n. 方便，私利，权宜"
+        "trans": [
+            "n. 方便，私利，权宜"
+        ]
     },
     {
         "name": "overlook",
-        "trans": "n. 忽略，忽视"
+        "trans": [
+            "n. 忽略，忽视"
+        ]
     },
     {
         "name": "consent",
-        "trans": "n. 准许"
+        "trans": [
+            "n. 准许"
+        ]
     },
     {
         "name": "disposable",
-        "trans": "adj. 一次性"
+        "trans": [
+            "adj. 一次性"
+        ]
     },
     {
         "name": "consolidating",
-        "trans": "加强，巩固"
+        "trans": [
+            "加强，巩固"
+        ]
     },
     {
         "name": "eligible",
-        "trans": "adj. 合适的，有资格当选的"
+        "trans": [
+            "adj. 合适的，有资格当选的"
+        ]
     },
     {
         "name": "grant",
-        "trans": "vt. 准许，授予<br>n. 补助金，津贴"
+        "trans": [
+            "vt. 准许，授予<br>n. 补助金，津贴"
+        ]
     },
     {
         "name": "exposure",
-        "trans": "n. 暴露，揭露，曝光"
+        "trans": [
+            "n. 暴露，揭露，曝光"
+        ]
     },
     {
         "name": "focal",
-        "trans": "adj. 焦点的，在焦点上的。［医］病灶的"
+        "trans": [
+            "adj. 焦点的，在焦点上的。［医］病灶的"
+        ]
     },
     {
         "name": "utilize",
-        "trans": "vt. 利用"
+        "trans": [
+            "vt. 利用"
+        ]
     },
     {
         "name": "organically",
-        "trans": "adv. 有机的，有组织的，器官上的"
+        "trans": [
+            "adv. 有机的，有组织的，器官上的"
+        ]
     },
     {
         "name": "revamp",
-        "trans": "vt. 修补，翻新"
+        "trans": [
+            "vt. 修补，翻新"
+        ]
     },
     {
         "name": "envolve",
-        "trans": "vt. vi. 发展"
+        "trans": [
+            "vt. vi. 发展"
+        ]
     },
     {
         "name": "arduous",
-        "trans": "adj. 努力的，费力的"
+        "trans": [
+            "adj. 努力的，费力的"
+        ]
     },
     {
         "name": "deprecated",
-        "trans": "vt. 强烈反对，抨击，弃用的"
+        "trans": [
+            "vt. 强烈反对，抨击，弃用的"
+        ]
     }
 ]
